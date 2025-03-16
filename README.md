@@ -133,3 +133,7 @@ Created by:
 
 ## 🤝 Credits
 This project was developed as part of the curriculum at [Medieinstitutet](https://medieinstitutet.se/) during our first year of studies.
+
+## Betyg
+![image](https://github.com/user-attachments/assets/5ffb6c4d-4ce0-4723-be58-24e9c2e71c43)
+(Gick bara få G då det var ett grupparbete)
